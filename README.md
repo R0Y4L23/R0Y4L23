@@ -1,7 +1,7 @@
 ## Hi there , My Name is Subham Roy.👋
 <br>
 
-About Me : I am Front End Website and Android App Aeveloper and also 2D Games Developer and a Competitive Programmer.
+About Me : I am Front End Website and Android App Developer and also 2D Games Developer and a Competitive Programmer.
 <br>
 🌱 I’m currently learning WordPress and Web Flow for faster Web Development.
 <br>
