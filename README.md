@@ -6,7 +6,7 @@
 <br>
 🌱 I’m currently learning WordPress and Web Flow for faster Web Development.
 <br>
-🎮<a href="https://r0y4l23.itch.io">My Developer Site</a> . Visit here to play my games.
+🎮<a href="https://r0y4l23.itch.io">My Game Developer Site</a> . Visit here to play my games.
 <br>
 📱Visit <a href="https://drive.google.com/drive/folders/16j_cZZYs7n0v2eKfwdTsYTNysw_HMcME?usp=sharing">here</a> to download my apps. ( Built with React Native ).
 <br>
