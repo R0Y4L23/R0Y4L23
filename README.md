@@ -4,7 +4,7 @@
 <br>
 📁Check out my Web Development repositories to learn more
 <br>
-🌱 I’m currently learning WordPress and Web Flow for faster Web Development.
+🌱 I’m currently learning Flutter faster Mobile Application Development.
 <br>
 🎮I also develop 2D Games. <a href="https://r0y4l23.itch.io">My Game Developer Site</a> . Visit here to play my games.
 <br>
