@@ -11,5 +11,3 @@
 📱Visit <a href="https://drive.google.com/drive/folders/16j_cZZYs7n0v2eKfwdTsYTNysw_HMcME?usp=sharing">here</a> to download my apps. ( Built with React Native ).
 <br>
 📱Visit <a href="https://drive.google.com/drive/folders/191SPFKAk3L5LbgsFLItlw7gATRQ7-Z_C?usp=sharing">here</a> to download my apps built with Flutter.
-<br>
-🖥️Visit my <a href="https://www.codechef.com/users/r0y4l">Codechef</a> profile too.
