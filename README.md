@@ -12,5 +12,4 @@
 <br>
 📱Visit <a href="https://drive.google.com/drive/folders/191SPFKAk3L5LbgsFLItlw7gATRQ7-Z_C?usp=sharing">here</a> to download my apps built with Flutter.
 <br>
-My Hacktober Fest 2k22 Achievements.
-[![@r0y4l's Holopin board](https://holopin.me/r0y4l)](https://holopin.io/@r0y4l)
+
